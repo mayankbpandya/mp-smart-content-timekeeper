@@ -1,0 +1,41 @@
+/* Settings Page Styles */
+.mp-sct-settings-wrap {
+    max-width: 800px;
+    margin: 20px 0;
+}
+
+.mp-sct-settings-wrap .form-table th {
+    width: 250px;
+}
+
+.mp-sct-settings-wrap input[type="number"] {
+    width: 100px;
+    padding: 5px;
+}
+
+.mp-sct-settings-wrap select {
+    padding: 5px;
+    min-width: 150px;
+}
+
+/* Radio Button Layout */
+.mp-sct-radio-group {
+    display: flex;
+    gap: 20px;
+    margin: 5px 0;
+}
+
+.mp-sct-radio-group label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+/* Add color picker styling */
+.wp-picker-container .wp-color-result.button {
+    height: 30px;
+    padding-left: 30px;
+}
+
+.wp-picker-container input[type="text"].color-field {
+    width: 100px;
+}
