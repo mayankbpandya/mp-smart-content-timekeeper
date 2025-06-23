@@ -1,8 +1,9 @@
 === MP Smart Content Timekeeper ===
 Contributors: mayankbpandya
 Tags: reading time, content engagement, progress bar, reading goals, time tracking
-Requires at least: 5.6
+Requires at least: 5.8
 Tested up to: 6.8
+Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -105,6 +106,6 @@ Before submission, ensure:
 == Internationalization ==
 
 Translations are welcome! The plugin includes:
-- Full text domain support (`mp-smart-content-timekeeper`)
+- Full text domain support (`mp-sct-content-timekeeper`)
 - .pot file in /languages directory
 - RTL CSS support
