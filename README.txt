@@ -40,7 +40,7 @@ MP Smart Content Timekeeper helps content creators improve reader engagement by 
 1. Upload the plugin files to the `/wp-content/plugins/mp-smart-content-timekeeper` directory
 2. Activate the plugin through the 'Plugins' screen
 3. Configure settings under Settings > Content Timekeeper
-4. Add reading goal shortcode: [mp_reading_goal]
+4. Add reading goal shortcode: [mp_sct_reading_goal]
 
 == Frequently Asked Questions ==
 
@@ -62,9 +62,8 @@ It's automatically fixed at the top of the viewport.
 == Screenshots ==
 
 1. Progress bar and reading time display on single post
-2. Reading goal widget with time selection
-3. Plugin settings screen with color picker
-4. Mobile-responsive progress bar display
+2. Plugin settings screen with color picker
+3. Mobile-responsive progress bar display
 
 == Changelog ==
 
@@ -106,6 +105,6 @@ Before submission, ensure:
 == Internationalization ==
 
 Translations are welcome! The plugin includes:
-- Full text domain support (`mp-sct-content-timekeeper`)
+- Full text domain support (`mp-smart-content-timekeeper`)
 - .pot file in /languages directory
 - RTL CSS support

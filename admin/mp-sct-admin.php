@@ -41,7 +41,7 @@ class MP_SCT_Admin {
             __( 'Content Timekeeper', 'mp-smart-content-timekeeper' ),
             'manage_options',
             'mp-sct-settings',
-            array( $this, 'mp_sct_render_settings_page ')
+            array( $this, 'mp_sct_render_settings_page')
         );
     }
 
